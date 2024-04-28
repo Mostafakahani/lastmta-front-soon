@@ -30,3 +30,7 @@ body {
   animation: fade-down 1s ease-in-out infinite alternate-reverse;
   animation-fill-mode: both;
 }
+.animate-fade-down2 {
+  animation: fade-down 2s ease-in-out infinite alternate-reverse;
+  animation-fill-mode: both;
+}
